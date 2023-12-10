@@ -1,7 +1,3 @@
-<link href="../custom.css" rel="stylesheet"></link>
-<link rel="shortcut icon" href="../favicon.bmp" />
-<script src="https://rawcdn.githack.com/benjaminmenetrier/md-page/master/md-page.js"></script><noscript>
-
 <title>Homepage</title>
 
 **Homepage** | [Research](./research.html) | [Publications](./publications.html) | [Communications](./communications.html) | [Teaching](./teaching.html) | [Contact](./contact.html)
@@ -25,4 +21,4 @@ Welcome on the professional web page of Benjamin Menetrier, researcher at the No
 
 ---
 
-&copy; 2023 Benjamin Menetrier with [md-page](https://github.com/oscarmorrison/md-page)
+&copy; 2023 Benjamin Menetrier
