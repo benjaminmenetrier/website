@@ -9,7 +9,7 @@ Welcome on the professional web page of Benjamin Menetrier, researcher at the No
 [https://www.webofscience.com/wos/author/record/2444325](https://www.webofscience.com/wos/author/record/2444325)
 
 ## CV
-[Benjamin_Menetrier_cv.pdf](http://benjaminmenetrier.free.fr/index/Benjamin_Menetrier_cv.pdf)
+[Benjamin_Menetrier_cv.pdf](https://rachelhonnert.fr/benjaminmenetrier/index/Benjamin_Menetrier_cv.pdf)
 
 ---
 
