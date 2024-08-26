@@ -10,4 +10,4 @@ E-mail: benjamin -dot- menetrier -at- met -dot- no
 
 ---
 
-&copy; 2023 Benjamin Menetrier
+&copy; 2024 Benjamin Menetrier

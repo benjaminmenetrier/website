@@ -1,12 +1,16 @@
-<link href="../custom.css" rel="stylesheet"></link>
-<link rel="shortcut icon" href="../favicon.bmp" />
-<script src="https://rawcdn.githack.com/benjaminmenetrier/md-page/master/md-page.js"></script><noscript>
-
-<title>Publications</title>
-
-[Homepage](./index.html) | [Research](./research.html) | **Publications** | [Communications](./communications.html) | [Teaching](./teaching.html) | [Contact](./contact.html)
+[Homepage](Homepage) | [Research](Research) | **Publications** | [Communications](Communications) | [Teaching](Teaching) | [Contact](Contact)
 
 # Peer-reviewed publications
+
+## 2024
+*  Jung, B.-J., **Ménétrier, B.**, Snyder, C., Liu, Z., Guerrette, J. J., Ban, J., Baños, I. H., Yu, Y. G. & Skamarock, W. C. (2023): Three-dimensional variational assimilation with a multivariate background error covariance for the Model for Prediction Across Scales-Atmosphere with the Joint Effort for data Assimilation Integration (JEDI-MPAS 2.0.0-beta). Geoscientific Model Development, 2024, 17, 3879-3895.
+
+## 2023
+* Guerrette, J. J., Liu, Z., Snyder, C., Jung, B.-J., Schwartz, C. S., Ban, J., Vahl, S., Wu, Y., Baños, I. H., Yu, Y. G., Ha, S., Trémolet, Y., Auligné, T., Gas, C., **Ménétrier, B.**, Shlyaeva, A., Miesch, M., Herbener, S., Liu, E., Holdaway, D., and Johnson, B. T. (2023): Data assimilation for the Model for Prediction Across Scales - Atmosphere with the Joint Effort for Data assimilation Integration (JEDI-MPAS 2.0.0-beta): ensemble of 3D ensemble-variational (En-3DEnVar) assimilations. Geoscientific Model Development, 2023, 16, 7123-7142.
+
+## 2022
+* Liu, Z., Snyder, C., Guerrette, J. J., Jung, B.-J., Ban, J., Vahl, S., Wu, Y., Trémolet, Y., Auligné, T., **Ménétrier, B.**, Shlyaeva, A., Herbener, S., Liu, E., Holdaway, D., and Johnson, B. T. (2022) : Data assimilation for the Model for Prediction Across Scales - Atmosphere with the Joint Effort for Data assimilation Integration (JEDI-MPAS 1.0.0): EnVar implementation and evaluation. Geoscientific Model Development, 2022, 15, 7859-7878.
+
 
 ## 2021
 * Marquet, P., Martinet, P., Mahfouf, J.-F., Barbu, A. L., and **Ménétrier, B.** (2021): Towards the use of conservative thermodynamic variables in data assimilation: preliminary results using ground-based microwave radiometer measurements. Atmospheric Measurement Techniques Discussions, 1-20.
@@ -43,7 +47,7 @@
  * Berre, L., Arbogast, E., **Ménétrier, B.**, and Desroziers, G. (2017): Change of variable applied to mass and wind fields for covariance localisation. *WMO CAS/JSC WGNE Blue Book*, edited by J. Côté. [ [http](http://wmc.meteoinfo.ru/bluebook/uploads/2017/docs/01_Berre_Lo%C3%AFk_ChageVariableLocalisation.pdf) ]
 
 ## 2014
- * **Ménétrier, B.** (2014): Utilisation d'une assimilation d'ensemble pour modéliser des covariances d'erreur d'ébauche dépendantes de la situation météorologique à échelle convective. *Thèse de doctorat*. [ [pdf](../publications/2014/these_benjamin_menetrier.pdf) ]
+ * **Ménétrier, B.** (2014): Utilisation d'une assimilation d'ensemble pour modéliser des covariances d'erreur d'ébauche dépendantes de la situation météorologique à échelle convective. *Thèse de doctorat*. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/publications/2014/these_benjamin_menetrier.pdf) ]
 
 ## 2011
  * Montmerle, T., Michel, Y. and **Ménétrier, B.** (2011): Modelling of background error covariances for the analysis of clouds and precipitation. *ECMWF-JCSDA Workshop on Assimilating Satellite Observations of Clouds and Precipitation into NWP Models*, 15-17 June 2010, 121-132. [ [http](http://www.ecmwf.int/en/elibrary/12662-modelling-background-error-covariances-analysis-clouds-and-precipitation) ]
@@ -55,7 +59,8 @@
  * Multivariate localization. DOI: 10.5281/zenodo.4009125 [ [pdf](https://github.com/benjaminmenetrier/multivariate_localization/master/multivariate_localization.pdf) ]
  * NICAS documentation. DOI: 10.5281/zenodo.4058620 [ [pdf](https://github.com/benjaminmenetrier/nicas_doc/master/nicas_doc.pdf) ]
  * Vertical balance equations. DOI: 10.5281/zenodo.5728709 [ [pdf](https://github.com/benjaminmenetrier/vertical_balance/master/vertical_balance.pdf) ]
+ * Fake levels convolution method. DOI: 10.5281/zenodo.13151313 [ [pdf](https://github.com/benjaminmenetrier/fake_levels_convolution/blob/develop/fake_levels_convolution.pdf) ]
 
 ---
 
-&copy; 2023 Benjamin Menetrier with [md-page](https://github.com/oscarmorrison/md-page)
+&copy; 2024 Benjamin Menetrier
